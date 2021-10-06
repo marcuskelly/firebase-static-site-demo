@@ -1,0 +1,1 @@
+# firebase-static-site-demo
